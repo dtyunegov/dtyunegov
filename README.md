@@ -1,16 +1,28 @@
-### Hi there 👋
+#Dmitry Tyunegov
+***
 
-<!--
-**dtyunegov/dtyunegov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!!! important Experience
+    #### 03.2021-now: Business environment
+    **Automation testing:**
+    - Development and maintenance of autotests in TypeScript (Playwright, CodeceptJS);
+    - Code review
+    - Refactoring existing tests
+    - Creation of the necessary utilities: parser, mock, regular expression
+    - Analysis of test results
+    
+    **Manual testing:**
+    - Development and maintenance testing documentation
+    - Functional testing, regression testing, integration testing
+    - Preparing and issuing releases
+    - Processing of test results, description of defects in bug tracking rules
+    - Simulation of situations that may during the operation of the software
+    - Reading logs
+    - Create manuals
+    - Communication with the development team
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    #### 06.2019-12.2020: NGP Inform
+    - Development and maintenance of information systems for oil industry projects
+    - Development of system and application software for the controllers
+    - Development of test scenarios and testing
+    - Registration of technical documentation for the software being developed (administrator's manual, system engineer's manual, user manual)
+    - Providing technical support for users of the developed systems.
