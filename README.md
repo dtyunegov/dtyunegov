@@ -1,6 +1,6 @@
 # Dmitry Tyunegov
 
-[![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@qa6592) [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Dtyunegov) [![Gmail](https://img.shields.io/badge/Email-090909?style=for-the-badge&logo=Gmail)](https://t.me/Dtyunegov)
+[![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@qa6592) [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Dtyunegov) [![Gmail](https://img.shields.io/badge/Email-090909?style=for-the-badge&logo=Gmail)](mailto:dtyunegov@gmail.com)
 ***
 ## Languages and Tools
 
